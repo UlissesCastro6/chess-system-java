@@ -1,7 +1,7 @@
 package Chess;
 
-import BorderGame.Board;
-import BorderGame.Position;
+import BoardGame.Board;
+import BoardGame.Position;
 import Chess.Pieces.King;
 import Chess.Pieces.Rook;
 
